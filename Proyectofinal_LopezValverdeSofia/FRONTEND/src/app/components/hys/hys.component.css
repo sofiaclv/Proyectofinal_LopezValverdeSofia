@@ -1,0 +1,10 @@
+.row{
+    background-color: #ddc4f1;
+    padding: 30px;
+    border-style: double;
+    border-color: blueviolet
+}
+h1{
+    font-style: italic;
+    color: #154360;
+}
